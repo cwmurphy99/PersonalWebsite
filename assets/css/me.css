@@ -231,16 +231,16 @@ body.page-template-page-fullsingle-me {
         .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
-          fill: #999999;
+          fill: #FFFFFF;
           -webkit-transition: 1s;
           transition: 1s; }
         .network ul li a .svg-icon circle {
-          stroke: #999999;
+          stroke: #FFFFFF;
           stroke-width: 1; }
       .network ul li a:hover .svg-icon path,
       .network ul li a:hover .svg-icon polygon,
       .network ul li a:hover .svg-icon rect {
-        fill: #FFFFFF;
+        fill: #000000;
         -webkit-transition: 0.1s;
         transition: 0.1s; }
 
